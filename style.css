@@ -29,7 +29,7 @@
 
 body {
   font-family: 'Xanh Mono', monospace;
-  background: url('C:\Users\mynameismyname\Downloads\rik-os\rik-os\images\wallpaper1.png');
+  background: url('/images/wallpaper1.png');
 
   /* if outside of the window, clip */
   height: 100vh;
